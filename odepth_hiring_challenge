@@ -1,0 +1,14 @@
+odepth_hiring_challenge/
+|-- frontend/
+|   |-- src/
+|   |   |-- components/
+|   |   |   |-- ChatComponent.jsx
+|   |   |   |-- Notifications.jsx
+|   |   |-- firebase/
+|   |   |   |-- firebase.js
+|   |   |-- App.js
+|   |   |-- index.js
+|   |-- public/
+|   |-- .gitignore
+|   |-- package.json
+|-- README.md
